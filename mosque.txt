@@ -1,0 +1,2569 @@
+-- Script tạo: Mosque
+local parentTarget = game.Workspace
+
+local Mosque = Instance.new("Model")
+Mosque.Name = "Mosque"
+
+    local Model = Instance.new("Model")
+    Model.Name = "Model"
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(2, 5, 2)
+        WhiteBlock.CFrame = CFrame.new(-58.1501236, 214.092804, 2.37934113, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-58.1315536, 211.467804, 2.36224747, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-58.1509285, 216.341797, 2.38018036, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local GoldCrescent = Instance.new("Part")
+        GoldCrescent.Name = "Gold Crescent"
+        GoldCrescent.Size = Vector3.new(1, 1, 1)
+        GoldCrescent.CFrame = CFrame.new(-58.151001, 218.091797, 2.38032913, -0.000217324807, 0.737999499, -0.674801111, 1.00000095, 0.000297365157, 6.53786037e-06, 0.000205924123, -0.67480123, -0.7380023)
+        GoldCrescent.Color = Color3.fromRGB(205, 205, 205)
+        GoldCrescent.Material = Enum.Material.Plastic
+        GoldCrescent.Anchored = true
+        GoldCrescent.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = GoldCrescent
+        GoldCrescent.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-58.1500778, 213.092804, 2.3792572, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-58.1501503, 214.717804, 2.37940598, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(4, 40.5, 4)
+        WhiteBlock.CFrame = CFrame.new(-58.1540985, 190.187775, 2.37639999, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(27, 42, 53)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(6, 6, 5.200000762939453)
+        WhiteBlock.CFrame = CFrame.new(-58.1307144, 169.437744, 2.36077499, 0.738020539, 0.674778044, 0.000394852483, 0.000510081474, 2.38967223e-05, -1.00000083, -0.674777985, 0.738023579, -0.000326997106)
+        WhiteBlock.Color = Color3.fromRGB(27, 42, 53)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(6, 6, 5.200000762939453)
+        WhiteBlock.CFrame = CFrame.new(-58.1243095, 136.337723, 2.35466385, 0.738020539, 0.674778044, 0.000394852483, 0.000510081474, 2.38967223e-05, -1.00000083, -0.674777985, 0.738023579, -0.000326997106)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(10, 38.5, 10)
+        WhiteBlock.CFrame = CFrame.new(-58.1284256, 150.237732, 2.35640335, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(14, 2.200000762939453, 14)
+        WhiteBlock.CFrame = CFrame.new(-58.1234856, 133.837723, 2.35380554, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(6, 6, 5.200000762939453)
+        WhiteBlock.CFrame = CFrame.new(-58.114563, 92.5376816, 2.34498215, 0.738020539, 0.674778044, 0.000394852483, 0.000510081474, 2.38967223e-05, -1.00000083, -0.674777985, 0.738023579, -0.000326997106)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(14, 2.200000762939453, 14)
+        WhiteBlock.CFrame = CFrame.new(-58.1144638, 90.0376816, 2.34476852, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(10, 46.5, 10)
+        WhiteBlock.CFrame = CFrame.new(-58.1217422, 109.437698, 2.34965134, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(10, 52.5, 10)
+        WhiteBlock.CFrame = CFrame.new(-58.1105309, 63.6376572, 2.34125137, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+    Model.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 23, 9)
+    Texturelirampa.CFrame = CFrame.new(-59.2317734, 26.4021835, 18.9278984, -0.62239784, -0.261495203, 0.737721324, -0.387697905, 0.921789229, -0.000356833538, -0.679933608, -0.286238015, -0.675099373)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 23.200000762939453, 9)
+    Texturelirampa.CFrame = CFrame.new(-58.5935974, 26.5222092, 18.9175758, -0.679721594, 0.286927879, -0.675016344, 0.388527721, 0.921434581, 0.000443826837, 0.622110546, -0.261959404, -0.737808287)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(12, 32, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-70.9015579, 31.4811478, 2.38453293, -0.286804318, 0.675196588, -0.679597735, -0.921413481, -0.000273670914, 0.388590127, 0.262187451, 0.737643659, 0.622212589)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 20.599998474121094, 5.399996757507324)
+    Texturelirampa.CFrame = CFrame.new(-109.264267, 30.6032257, -39.2997322, -0.416621357, -0.531247199, 0.737701237, -0.787039459, 0.61690408, -0.000232167571, -0.454969108, -0.580698192, -0.675127447)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-91.348877, 31.9442902, -20.2444534, 0.680070579, -0.286605626, -0.674805224, -0.388352931, -0.921513617, 1.23075488e-05, -0.621845007, 0.262052834, -0.738001645)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 6)
+    Texturelirampa.CFrame = CFrame.new(-88.5569611, 33.3272095, -18.0546303, 0.680070579, -0.286605626, -0.674805224, -0.388352931, -0.921513617, 1.23075488e-05, -0.621845007, 0.262052834, -0.738001645)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-93.9883423, 27.7982178, -20.5413322, 0.680070579, -0.286605626, -0.674805224, -0.388352931, -0.921513617, 1.23075488e-05, -0.621845007, 0.262052834, -0.738001645)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-83.0062103, 30.5627594, -10.2575493, -0.680086374, -0.286671609, 0.674761057, 0.388431042, -0.92148006, -1.8209083e-07, 0.621778309, 0.262096792, 0.738041997)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-92.4531174, 30.5622787, -20.5898628, 0.680070579, -0.286605626, -0.674805224, -0.388352931, -0.921513617, 1.23075488e-05, -0.621845007, 0.262052834, -0.738001645)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 3.5999996662139893, 8.599996566772461)
+    Texturelirampa.CFrame = CFrame.new(-107.132416, 20.3105927, -30.8932915, 0.675128043, -0.737700701, -0.0002884485, -0.0001233082, 0.000284359296, -1.0000025, 0.737706363, 0.675128222, 0.000100131248)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 23.199996948242188, 9)
+    Texturelirampa.CFrame = CFrame.new(-119.393311, 26.5474854, -46.8026314, -0.621733785, 0.262653083, 0.737875879, 0.388801485, 0.92132616, -0.000355786295, -0.679919422, 0.286668301, -0.674936771)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-83.1911163, 27.7986221, -8.73364639, -0.680086374, -0.286671609, 0.674761057, 0.388431042, -0.92148006, -1.8209083e-07, 0.621778309, 0.262096792, 0.738041997)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 6)
+    Texturelirampa.CFrame = CFrame.new(-85.1830444, 33.3280258, -14.364521, -0.680086374, -0.286671609, 0.674761057, 0.388431042, -0.92148006, -1.8209083e-07, 0.621778309, 0.262096792, 0.738041997)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-83.2508011, 31.9448395, -11.3888359, -0.680086374, -0.286671609, 0.674761057, 0.388431042, -0.92148006, -1.8209083e-07, 0.621778309, 0.262096792, 0.738041997)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 23, 9)
+    Texturelirampa.CFrame = CFrame.new(-119.404572, 26.4295349, -47.4373398, 0.679423988, 0.287062347, 0.675262511, -0.388403386, 0.92149204, -0.000947343418, -0.622520387, -0.261629373, 0.737582505)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-59.9943085, 7.99363708, 24.9235268, -0.674587369, -0.738195062, 0.00010089601, 0.000245256611, -8.12895596e-05, 1.00000226, -0.738200665, 0.674587488, 0.000236740336)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(12, 32, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-103.987122, 31.4869614, -33.7589951, -0.286941618, 0.675157964, -0.679578125, -0.921371996, -0.0003556007, 0.388688028, 0.262183249, 0.737678826, 0.622172415)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(1, 1, 97)
+    Part.CFrame = CFrame.new(-92.7513123, 8.50543213, -10.8429031, -0.737906575, 0.000691100897, -0.674902499, 0.000467146339, 1.00000179, 0.00051991723, 0.674902976, 6.91922032e-05, -0.737912238)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 1, 98)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-91.9571152, 8.5104599, -10.8915634, -0.000373588322, 0.737692237, 0.675137222, -1.00000179, -0.00019567553, -0.000346505782, -0.000124505095, -0.675137579, 0.73769778)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-58.4722824, 7.99668884, 24.9505882, -0.737225533, -0.675645947, -0.00103853608, 0.000573119265, 0.000918226317, -1.00000107, 0.675646663, -0.737231314, -0.000290420518)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-93.1278992, 30.5623169, -21.3278847, -0.28666231, 0.6747787, -0.680071712, -0.921494067, -3.70612797e-05, 0.388392687, 0.262053311, 0.738022983, 0.621814787)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(11, 81, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-90.7410889, 20.8886642, -12.6721497, -0.286747992, 0.675216258, -0.679601848, -0.921454191, -0.000309663505, 0.388489664, 0.262103498, 0.737622559, 0.622269273)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(3, 17, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-86.1547241, 35.6302032, -16.867506, -0.286804318, 0.675196588, -0.679597735, -0.921413481, -0.000273670914, 0.388590127, 0.262187451, 0.737643659, 0.622212589)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-90.9186707, 33.3273392, -20.6377087, -0.28666231, 0.6747787, -0.680071712, -0.921494067, -3.70612797e-05, 0.388392687, 0.262053311, 0.738022983, 0.621814787)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(3, 2, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-92.0740051, 32.8663788, -21.613884, -0.28666231, 0.6747787, -0.680071712, -0.921494067, -3.70612797e-05, 0.388392687, 0.262053311, 0.738022983, 0.621814787)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(3, 2, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-81.9492493, 32.8658295, -10.5490608, -0.286708444, 0.675192356, -0.67964226, -0.921435118, -0.000178002709, 0.38853243, 0.262213141, 0.737641633, 0.622197032)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-82.3283615, 30.5627289, -9.52504349, -0.286659718, 0.674777448, -0.680074692, -0.921495616, -3.3087701e-05, 0.388388753, 0.26205346, 0.738021314, 0.621813953)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-82.8213348, 33.3278961, -11.7814445, -0.286659718, 0.674777448, -0.680074692, -0.921495616, -3.3087701e-05, 0.388388753, 0.26205346, 0.738021314, 0.621813953)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local CornerWedge = Instance.new("CornerWedgePart")
+    CornerWedge.Name = "CornerWedge"
+    CornerWedge.Size = Vector3.new(17.800003051757812, 7, 19.200002670288086)
+    CornerWedge.CFrame = CFrame.new(-58.6540031, 40.619812, -0.0626106262, 0.738030016, -3.91360591e-05, 0.674765527, 8.3761217e-05, 0.999997735, -3.71222013e-05, -0.674765527, 8.43485977e-05, 0.738032937)
+    CornerWedge.Color = Color3.fromRGB(99, 95, 98)
+    CornerWedge.Material = Enum.Material.Slate
+    CornerWedge.Anchored = true
+    CornerWedge.CanCollide = true
+    CornerWedge.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-125.507675, 8.03822327, -46.6560555, 0.674677491, 0.73811245, 0.000580266409, -0.000489339349, -0.000345167064, 1.00000131, 0.738118172, -0.674677789, 0.000129267413)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-125.666565, 8.02937317, -48.4985771, -0.737291753, -0.675574303, -0.000600978499, 0.000678596902, 0.000152368768, -1.00000083, 0.675574303, -0.737294793, 0.000345664681)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local CornerWedge = Instance.new("CornerWedgePart")
+    CornerWedge.Name = "CornerWedge"
+    CornerWedge.Size = Vector3.new(18.000003814697266, 7.399999618530273, 18)
+    CornerWedge.CFrame = CFrame.new(-100.68602, 40.8221283, -46.1762962, 0.675160885, -3.70936614e-05, -0.737670541, -3.77031429e-05, 1, -8.47930569e-05, 0.73767066, 8.50614451e-05, 0.675160825)
+    CornerWedge.Color = Color3.fromRGB(99, 95, 98)
+    CornerWedge.Material = Enum.Material.Slate
+    CornerWedge.Anchored = true
+    CornerWedge.CanCollide = true
+    CornerWedge.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(23, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-49.7734261, 34.6846619, 5.5474968, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(22, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-49.8813133, 33.7636032, 6.17182922, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(20, 1, 2)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-49.4438019, 29.618454, 8.13332367, 0.737692535, -0.622428536, -0.261519402, -0.000322939071, -0.387677372, 0.921798706, -0.675136685, -0.6799227, -0.286188483)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(20, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-49.8337708, 30.9984741, 7.70543289, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(21, 1, 2)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-49.8575287, 32.3815384, 6.93862152, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(36.20000076293945, 10, 10)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-58.9892426, 19.1002579, -5.82341003, 3.84376244e-06, 0.675028682, -0.737791598, -1.00000226, -3.61934838e-07, 2.44848451e-07, -7.06177616e-07, 0.737797141, 0.67502892)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(1, 1, 22)
+    Part.CFrame = CFrame.new(-117.562805, 8.5112915, -55.9146652, 0.6749385, 0.000257569511, -0.737874269, -4.43119498e-05, 1.00000155, 0.000314743782, 0.737879813, -0.000178846909, 0.674938738)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(40, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-43.7627182, 35.5983887, -0.476543427, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 1, 24)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-116.888702, 8.51226044, -55.1773872, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(49.55006790161133, 43.869991302490234, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-69.248703, 45.7761955, -33.0966873, 0.686814547, -0.674768567, -0.270136774, 0.366052121, 3.8992388e-05, 0.930598438, -0.627925873, -0.738035321, 0.24702698)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(42, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-43.2872849, 36.5214844, -1.4369278, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(36.00004196166992, 10, 10)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-95.3167648, 19.3222885, -45.9484138, 3.84376244e-06, 0.675028682, -0.737791598, -1.00000226, -3.61934838e-07, 2.44848451e-07, -7.06177616e-07, 0.737797141, 0.67502892)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 3)
+    Texturelirampa.CFrame = CFrame.new(-41.8288651, 30.0763397, 0.901313782, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-41.3994789, 33.7625732, -1.59402084, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-41.7447052, 32.3814545, -0.489841461, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-40.1859818, 34.6837463, -3.23059082, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 2, 43)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-92.6033783, 8.50523376, -44.1914177, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-36.236721, 33.7601547, -6.32117081, 0.62258029, 0.261538923, 0.73755753, 0.38765958, -0.921806395, -0.000361127924, 0.679793715, 0.286147088, -0.675284326)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-106.928802, 12.5113907, -64.2930756, -0.67444402, -5.00595088e-05, -0.73832643, 0.000303270412, -1.0000025, -0.000203253891, -0.738331497, -0.000361732207, 0.674444556)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-107.666756, 10.5113068, -63.6184464, -0.67444402, -5.00595088e-05, -0.73832643, 0.000303270412, -1.0000025, -0.000203253891, -0.738331497, -0.000361732207, 0.674444556)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-105.822495, 13.5115204, -65.3058929, -0.67444402, -5.00595088e-05, -0.73832643, 0.000303270412, -1.0000025, -0.000203253891, -0.738331497, -0.000361732207, 0.674444556)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-37.9732742, 34.6830063, -5.25640488, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-106.929535, 13.5103912, -64.2937317, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-107.667595, 13.0113068, -63.6175537, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-109.454727, 9.01021576, -63.3482285, -0.738070667, 0.674723148, 0.000382450206, 9.89584878e-05, -0.000465507153, 1.00000155, 0.674723327, 0.738076389, 0.000277786196)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 8)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-105.084457, 15.0106049, -65.9819641, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-35.106575, 32.3772125, -6.56728363, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local GoldCrescent = Instance.new("Part")
+    GoldCrescent.Name = "Gold Crescent"
+    GoldCrescent.Size = Vector3.new(1, 1, 1)
+    GoldCrescent.CFrame = CFrame.new(-52.8494568, 69.3390656, -47.8497047, -0.000217260269, -0.737999558, 0.674801171, 1.00000095, -0.000297277758, -6.53786265e-06, 0.00020586513, 0.67480129, 0.73800236)
+    GoldCrescent.Color = Color3.fromRGB(205, 205, 205)
+    GoldCrescent.Material = Enum.Material.Plastic
+    GoldCrescent.Anchored = true
+    GoldCrescent.CanCollide = true
+
+        local Mesh = Instance.new("SpecialMesh")
+        Mesh.Name = "Mesh"
+        Mesh.Parent = GoldCrescent
+    GoldCrescent.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-103.240776, 13.5098114, -67.6690979, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-103.24073, 12.5098114, -67.6691818, -0.675082982, -0.737742066, -3.90766854e-06, -0.000242919108, 0.000223024224, 1.00000238, -0.737747431, 0.675083339, -0.000328999886)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-104.347794, 13.5106888, -66.6569138, 0.67493844, -0.000498741283, 0.737873673, -0.000260091329, -1.00000179, -0.000444112608, 0.737879872, 0.000107013751, -0.674938202)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 3)
+    Texturelirampa.CFrame = CFrame.new(-33.7153702, 30.072258, -6.52641678, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(10, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-33.1768074, 34.6795502, -9.64319229, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-102.504158, 13.0088959, -68.3439636, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(8, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-32.9176407, 33.7595367, -9.35987473, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local WhiteBlock = Instance.new("Part")
+    WhiteBlock.Name = "WhiteBlock"
+    WhiteBlock.Size = Vector3.new(1, 1, 1)
+    WhiteBlock.CFrame = CFrame.new(-52.8493614, 66.8890533, -47.8499146, -0.738020182, -3.90436653e-05, -0.6747787, -8.36975523e-05, 1.00000095, 3.70612797e-05, 0.674778759, 8.42662776e-05, -0.738022983)
+    WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+    WhiteBlock.Material = Enum.Material.Foil
+    WhiteBlock.Anchored = true
+    WhiteBlock.CanCollide = true
+    WhiteBlock.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(6, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-32.3919296, 31.914505, -8.78512573, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(7, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-32.2847748, 32.8365631, -9.40877151, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(4, 1, 8)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-105.087036, 3.00759125, -65.9788666, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local WhiteBlock = Instance.new("Part")
+    WhiteBlock.Name = "WhiteBlock"
+    WhiteBlock.Size = Vector3.new(2, 2, 2)
+    WhiteBlock.CFrame = CFrame.new(-52.8506088, 61.3890495, -47.8490181, -0.738020182, -3.90436653e-05, -0.6747787, -8.36975523e-05, 1.00000095, 3.70612797e-05, 0.674778759, 8.42662776e-05, -0.738022983)
+    WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+    WhiteBlock.Material = Enum.Material.Foil
+    WhiteBlock.Anchored = true
+    WhiteBlock.CanCollide = true
+    WhiteBlock.Parent = Mosque
+
+    local WhiteBlock = Instance.new("Part")
+    WhiteBlock.Name = "WhiteBlock"
+    WhiteBlock.Size = Vector3.new(1, 1, 1)
+    WhiteBlock.CFrame = CFrame.new(-52.8493004, 65.3890533, -47.8500328, -0.738020182, -3.90436653e-05, -0.6747787, -8.36975523e-05, 1.00000095, 3.70612797e-05, 0.674778759, 8.42662776e-05, -0.738022983)
+    WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+    WhiteBlock.Material = Enum.Material.Foil
+    WhiteBlock.Anchored = true
+    WhiteBlock.CanCollide = true
+    WhiteBlock.Parent = Mosque
+
+    local WhiteBlock = Instance.new("Part")
+    WhiteBlock.Name = "WhiteBlock"
+    WhiteBlock.Size = Vector3.new(1, 1, 1)
+    WhiteBlock.CFrame = CFrame.new(-52.8492203, 63.3890533, -47.8502121, -0.738020182, -3.90436653e-05, -0.6747787, -8.36975523e-05, 1.00000095, 3.70612797e-05, 0.674778759, 8.42662776e-05, -0.738022983)
+    WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+    WhiteBlock.Material = Enum.Material.Foil
+    WhiteBlock.Anchored = true
+    WhiteBlock.CanCollide = true
+    WhiteBlock.Parent = Mosque
+
+    local WhiteBlock = Instance.new("Part")
+    WhiteBlock.Name = "WhiteBlock"
+    WhiteBlock.Size = Vector3.new(2, 5, 2)
+    WhiteBlock.CFrame = CFrame.new(-52.8492889, 64.8890533, -47.8500633, -0.738020182, -3.90436653e-05, -0.6747787, -8.36975523e-05, 1.00000095, 3.70612797e-05, 0.674778759, 8.42662776e-05, -0.738022983)
+    WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+    WhiteBlock.Material = Enum.Material.Foil
+    WhiteBlock.Anchored = true
+    WhiteBlock.CanCollide = true
+
+        local Mesh = Instance.new("SpecialMesh")
+        Mesh.Name = "Mesh"
+        Mesh.Parent = WhiteBlock
+    WhiteBlock.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-102.503387, 10.5088959, -68.3434296, 0.675193369, -7.75948865e-05, 0.737640977, 0.00012821595, -1.00000262, -0.000228537494, 0.737646639, 0.000248146418, -0.675193489)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(5, 1, 3)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-31.5006313, 30.0705109, -8.5500145, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-102.073112, 9.00905609, -70.0959625, -0.738070667, 0.674723148, 0.000382450206, 9.89584878e-05, -0.000465507153, 1.00000155, 0.674723327, 0.738076389, 0.000277786196)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(28, 3.0000064373016357, 29)
+    Part.CFrame = CFrame.new(-52.8375168, 57.4240456, -47.7907219, 0.738020182, 3.90436653e-05, -0.6747787, 8.36975523e-05, -1.00000095, 3.70612797e-05, -0.674778759, -8.42662776e-05, -0.738022983)
+    Part.Color = Color3.fromRGB(17, 17, 17)
+    Part.Material = Enum.Material.Plastic
+    Part.Anchored = true
+    Part.CanCollide = true
+
+        local Mesh = Instance.new("SpecialMesh")
+        Mesh.Name = "Mesh"
+        Mesh.Parent = Part
+    Part.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-29.418087, 30.5317688, -10.7196579, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-29.4656239, 33.2969055, -12.2532501, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-28.2758675, 35.6001434, -14.6566505, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-29.1196556, 34.6790085, -13.3581085, -0.62256223, 0.261469781, -0.737597167, -0.387613416, -0.921825528, 0.000390890811, -0.679836988, 0.28614682, 0.675240636)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(54.810035705566406, 47.649993896484375, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-40.7554169, 44.8203201, -34.0013504, 0.737640142, -0.634414732, 0.231095284, 0.000292561861, 0.342565238, 0.939494014, -0.675194085, -0.692940831, 0.252875477)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Brick = Instance.new("Part")
+    Brick.Name = "Brick"
+    Brick.Size = Vector3.new(75, 23.400014877319336, 74)
+    Brick.CFrame = CFrame.new(-52.8371582, 48.6240311, -47.7914619, -0.6747787, -3.90436653e-05, 0.738020182, 3.70612797e-05, 1.00000095, 8.36975523e-05, -0.738022983, 8.42662776e-05, -0.674778759)
+    Brick.Color = Color3.fromRGB(99, 95, 98)
+    Brick.Material = Enum.Material.Plastic
+    Brick.Anchored = true
+    Brick.CanCollide = true
+
+        local Mesh = Instance.new("SpecialMesh")
+        Mesh.Name = "Mesh"
+        Mesh.Parent = Brick
+    Brick.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-26.6925983, 36.5213699, -16.6312656, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(55.35006332397461, 42.400062561035156, 1.2000000476837158)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-66.4398575, 44.6287994, -62.8755875, 0.737328529, -0.624699891, -0.257103235, -0.00012761011, -0.38071683, 0.924694717, -0.675539553, -0.681770682, -0.280792534)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 1, 15)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-96.6032562, 8.50656128, -73.7448425, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(1, 1, 13.399999618530273)
+    Part.CFrame = CFrame.new(-97.1304321, 8.50661469, -74.6178436, 0.6749385, 0.000257569511, -0.737874269, -4.43119498e-05, 1.00000155, 0.000314743782, 0.737879813, -0.000178846909, 0.674938738)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(90, 1, 0.20000000298023224)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-25.7434864, 37.0725098, -17.8161049, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-24.4799118, 36.5206223, -18.6570568, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(7, 8, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-74.1583252, 15.4983368, -61.0718613, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(18, 8, 3)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-75.6343155, 9.99315643, -59.7185402, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(90, 1, 14)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-21.5390835, 22.2382584, -13.2031555, 0.737692535, -0.622428536, -0.261519402, -0.000322939071, -0.387677372, 0.921798706, -0.675136685, -0.6799227, -0.286188483)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(5, 8, 2)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-73.0499725, 16.4904556, -62.0824471, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-95.096138, 1.5007782, -75.7992935, -0.675081193, 0.000493377855, 0.737743378, 0.000346482586, 1.00000155, -0.000357833051, -0.737748921, 1.48799154e-05, -0.675081611)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-22.375103, 35.5978165, -20.0585461, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(4, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-90.700531, 14.0052338, -79.146904, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(88.7997817993164, 20.600006103515625, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-74.5683289, 30.4761505, -70.8518372, 0.737521052, -0.531491876, 0.416628301, -2.76226492e-05, 0.61690706, 0.787036002, -0.675324202, -0.580467105, 0.45496729)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(8, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-74.1602936, 9.99832916, -61.0703049, -0.675017655, -0.000315789512, -0.737801671, 0.000130660439, -1.00000167, 0.000314739795, -0.737807214, 0.000115123556, 0.675018013)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-91.0372238, 13.0042572, -79.5152664, -0.675081372, 0.000254821498, 0.737743139, 8.75294936e-05, 1.00000143, -0.0002715718, -0.737748921, -0.000117833821, -0.675081372)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-89.962532, 15.0053253, -79.8216248, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-92.2349319, 8.00518036, -79.1927719, -0.738070667, 0.674723148, 0.000382450206, 9.89584878e-05, -0.000465507153, 1.00000155, 0.674723327, 0.738076389, 0.000277786196)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(8, 2, 2)
+    Texturelirampa.CFrame = CFrame.new(-73.0512924, 12.9904556, -62.0814056, -0.675017655, -0.000315789512, -0.737801671, 0.000130660439, -1.00000167, 0.000314739795, -0.737807214, 0.000115123556, 0.675018013)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-89.2244492, 15.0044098, -80.497818, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(8.599990844726562, 2, 98.5998306274414)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-69.4345016, 20.2908707, -65.3893051, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-21.0061493, 34.6749268, -20.7858505, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-19.87677, 33.2919922, -21.0312824, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 2, 2)
+    Texturelirampa.CFrame = CFrame.new(-92.8876114, 3.0050354, -77.8280029, -0.675081372, 0.000254821498, 0.737743139, 8.75294936e-05, 1.00000143, -0.0002715718, -0.737748921, -0.000117833821, -0.675081372)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-91.7765045, 6.0051651, -78.8383408, -0.675081193, 0.000493377855, 0.737743378, 0.000346482586, 1.00000155, -0.000357833051, -0.737748921, 1.48799154e-05, -0.675081611)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(8, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-70.8386459, 14.4897079, -64.1071014, -0.675017655, -0.000315789512, -0.737801671, 0.000130660439, -1.00000167, 0.000314739795, -0.737807214, 0.000115123556, 0.675018013)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-91.0364227, 9.99825287, -79.514801, -0.675017655, -0.000315789512, -0.737801671, 0.000130660439, -1.00000167, 0.000314739795, -0.737807214, 0.000115123556, 0.675018013)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 2, 2)
+    Texturelirampa.CFrame = CFrame.new(-89.9295197, 12.9973831, -80.5267029, -0.675017655, -0.000315789512, -0.737801671, 0.000130660439, -1.00000167, 0.000314739795, -0.737807214, 0.000115123556, 0.675018013)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-89.9281082, 14.4973831, -80.527916, -0.675081372, 0.000254821498, 0.737743139, 8.75294936e-05, 1.00000143, -0.0002715718, -0.737748921, -0.000117833821, -0.675081372)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 2, 2)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-92.8883057, 1.50603485, -77.8274536, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(3, 2, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-91.7770996, 2.50515747, -78.8379593, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(23, 1, 90)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-82.8920822, 26.4566269, -80.2288971, -0.262348443, 0.621734381, -0.737983465, -0.921324313, -0.3888008, -2.51584479e-05, -0.286946297, 0.679918885, 0.674818993)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Model = Instance.new("Model")
+    Model.Name = "Model"
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(2, 5, 2)
+        WhiteBlock.CFrame = CFrame.new(-1.23819351, 214.099152, -48.3007851, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-1.21965027, 211.474152, -48.3178787, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-1.2390213, 216.348145, -48.2999268, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local GoldCrescent = Instance.new("Part")
+        GoldCrescent.Name = "Gold Crescent"
+        GoldCrescent.Size = Vector3.new(1, 1, 1)
+        GoldCrescent.CFrame = CFrame.new(-1.23909378, 218.098145, -48.299778, -0.000217324807, 0.737999499, -0.674801111, 1.00000095, 0.000297365157, 6.53786037e-06, 0.000205924123, -0.67480123, -0.7380023)
+        GoldCrescent.Color = Color3.fromRGB(205, 205, 205)
+        GoldCrescent.Material = Enum.Material.Plastic
+        GoldCrescent.Anchored = true
+        GoldCrescent.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = GoldCrescent
+        GoldCrescent.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-1.23815918, 213.099152, -48.3008804, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(1, 1, 1)
+        WhiteBlock.CFrame = CFrame.new(-1.23822021, 214.724152, -48.3007431, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(245, 205, 48)
+        WhiteBlock.Material = Enum.Material.Foil
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(4, 40.5, 4)
+        WhiteBlock.CFrame = CFrame.new(-1.24217224, 190.194122, -48.3037262, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(27, 42, 53)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(6, 6, 5.200000762939453)
+        WhiteBlock.CFrame = CFrame.new(-1.21880722, 169.444122, -48.3193321, 0.738020539, 0.674778044, 0.000394852483, 0.000510081474, 2.38967223e-05, -1.00000083, -0.674777985, 0.738023579, -0.000326997106)
+        WhiteBlock.Color = Color3.fromRGB(27, 42, 53)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(6, 6, 5.200000762939453)
+        WhiteBlock.CFrame = CFrame.new(-1.21240616, 136.344055, -48.3254395, 0.738020539, 0.674778044, 0.000394852483, 0.000510081474, 2.38967223e-05, -1.00000083, -0.674777985, 0.738023579, -0.000326997106)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(10, 38.5, 10)
+        WhiteBlock.CFrame = CFrame.new(-1.21651077, 150.24408, -48.3237114, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(14, 2.200000762939453, 14)
+        WhiteBlock.CFrame = CFrame.new(-1.21157837, 133.844055, -48.3263206, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(6, 6, 5.200000762939453)
+        WhiteBlock.CFrame = CFrame.new(-1.20264435, 92.5440292, -48.3351364, 0.738020539, 0.674778044, 0.000394852483, 0.000510081474, 2.38967223e-05, -1.00000083, -0.674777985, 0.738023579, -0.000326997106)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+
+            local Mesh = Instance.new("SpecialMesh")
+            Mesh.Name = "Mesh"
+            Mesh.Parent = WhiteBlock
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(14, 2.200000762939453, 14)
+        WhiteBlock.CFrame = CFrame.new(-1.20254898, 90.0440216, -48.3353462, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(10, 46.5, 10)
+        WhiteBlock.CFrame = CFrame.new(-1.20982742, 109.444046, -48.3304672, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+
+        local WhiteBlock = Instance.new("Part")
+        WhiteBlock.Name = "WhiteBlock"
+        WhiteBlock.Size = Vector3.new(10, 52.5, 10)
+        WhiteBlock.CFrame = CFrame.new(-1.19861221, 63.6439972, -48.3388672, 0.738020122, -0.000395541429, 0.67477864, 0.000510944985, 1.00000083, 2.39674046e-05, -0.6747787, 0.000327522954, 0.738022983)
+        WhiteBlock.Color = Color3.fromRGB(149, 121, 119)
+        WhiteBlock.Material = Enum.Material.Concrete
+        WhiteBlock.Anchored = true
+        WhiteBlock.CanCollide = true
+        WhiteBlock.Parent = Model
+    Model.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(106, 1, 1)
+    Part.CFrame = CFrame.new(-19.399147, 8.47113037, -10.8569794, -0.737247288, 0.00093489635, -0.675622523, 0.000405491126, 1.00000167, 0.000947495166, 0.675623417, 0.000425123901, -0.737252772)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 1, 106)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-19.7406158, 8.47514343, -11.229023, -0.000605007051, -0.675127745, 0.737700522, -1.00000191, 0.000458944152, -0.000405871542, -6.51369628e-05, -0.737706304, -0.675127983)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-87.7140961, 15.4966354, -82.5521698, -0.675081372, 0.000254821498, 0.737743139, 8.75294936e-05, 1.00000143, -0.0002715718, -0.737748921, -0.000117833821, -0.675081372)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(4, 8, 8)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-69.3626404, 16.9888763, -65.4578247, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-18.3545532, 30.5260239, -20.8487167, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-87.7140503, 14.4966354, -82.5522614, -0.675017655, -0.000315789512, -0.737801671, 0.000130660439, -1.00000167, 0.000314739795, -0.737807214, 0.000115123556, 0.675018013)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 1, 8)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-85.9041443, 15.4997864, -83.5335999, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(10, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-16.947773, 34.6723938, -24.4964676, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(7, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-16.7937584, 32.8293152, -23.5872669, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(8, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-16.6858711, 33.7503738, -24.2116032, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(8, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-67.8872375, 14.4880447, -66.8069305, 0.6749385, -0.000318536739, 0.73787415, -8.74631005e-05, -1.00000167, -0.00035784021, 0.737879813, 0.000176133413, -0.674938679)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(5, 8, 2)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-65.6724701, 16.4872971, -68.8332062, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(6, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-16.162899, 31.9073486, -23.6383801, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(5, 1, 3)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-16.0116577, 30.0652695, -22.7306957, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-84.7654877, 15.49897, -85.2521667, 0.675129592, 0.000315791403, -0.737699211, -0.000130710687, 1.00000167, 0.000314980542, 0.737704754, -0.000115121511, 0.67512989)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-84.7633514, 14.4949646, -85.2514343, 0.675002038, -0.000318680308, 0.737815917, -8.74946199e-05, -1.00000167, -0.000357837009, 0.73782146, 0.000176263449, -0.675002337)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(1, 110, 101)
+    Part.CFrame = CFrame.new(-52.827034, 0.499954224, -47.3789635, -2.2491306e-06, 0.737750351, -0.675073624, 1.00000191, -2.02177466e-06, 1.21773564e-06, 4.07440638e-07, -0.675073743, -0.737756014)
+    Part.Color = Color3.fromRGB(105, 64, 40)
+    Part.Material = Enum.Material.Wood
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-82.5836563, 14.9981613, -86.5723038, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(8, 2, 2)
+    Texturelirampa.CFrame = CFrame.new(-65.6744919, 12.9872894, -68.8328857, 0.6749385, -0.000318536739, 0.73787415, -8.74631005e-05, -1.00000167, -0.00035784021, 0.737879813, 0.000176133413, -0.674938679)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(7, 8, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-64.566803, 15.4874191, -69.8455048, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-81.8463745, 14.9982452, -87.2464142, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-13.7127686, 32.3676453, -26.1454582, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 3)
+    Texturelirampa.CFrame = CFrame.new(-13.7969208, 30.0635223, -24.7542915, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-82.5492935, 14.4932175, -87.2757721, 0.675129592, 0.000315791403, -0.737699211, -0.000130710687, 1.00000167, 0.000314980542, 0.737704754, -0.000115121511, 0.67512989)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 2, 2)
+    Texturelirampa.CFrame = CFrame.new(-82.5499802, 12.9942169, -87.2752304, 0.675002038, -0.000318680308, 0.737815917, -8.74946199e-05, -1.00000167, -0.000357837009, 0.73782146, 0.000176263449, -0.675002337)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-13.3668022, 33.7497559, -27.2503185, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(4, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-81.108963, 13.9983292, -87.9219971, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-12.153286, 34.671936, -28.8868847, 0.62251842, 0.737624586, -0.261497349, 0.3876504, -0.000365434884, 0.921806395, 0.679851532, -0.675211012, -0.28616792)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(8, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-64.5680695, 9.9874115, -69.844635, 0.675129533, -0.00025482403, 0.737699032, -8.7551125e-05, -1.00000143, -0.000271569355, 0.737704813, 0.000117831049, -0.675129592)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-81.4463196, 12.9983444, -88.2910843, 0.675129592, 0.000315791403, -0.737699211, -0.000130710687, 1.00000167, 0.000314980542, 0.737704754, -0.000115121511, 0.67512989)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-81.4476852, 9.99833679, -88.2899933, 0.675129533, -0.00025482403, 0.737699032, -8.7551125e-05, -1.00000143, -0.000271569355, 0.737704813, 0.000117831049, -0.675129592)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(18, 8, 3)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-63.0927124, 9.9865799, -71.1949387, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-81.0413361, 7.99745178, -89.4759827, -0.738070667, 0.674723148, 0.000382450206, 9.89584878e-05, -0.000465507153, 1.00000155, 0.674723327, 0.738076389, 0.000277786196)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(50.6000862121582, 45.5999755859375, 1.0000001192092896)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-37.299118, 45.2867355, -61.2949867, 0.695823193, -0.674773574, 0.246000201, -0.333249986, 8.66317278e-05, 0.94284153, -0.636225343, -0.738030076, -0.224807456)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-10.6786461, 34.6710968, -30.2365074, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-80.710907, 5.99742126, -88.9651642, 0.675065875, 0.000437847164, -0.737757444, -0.00021700564, 1.00000191, 0.00040121426, 0.737762928, -0.000109799221, 0.675066352)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(3, 2, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-80.7095108, 2.49241638, -88.9626007, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-8.94137192, 33.7472534, -31.3019333, 0.62258029, 0.261538923, 0.73755753, 0.38765958, -0.921806395, -0.000361127924, 0.679793715, 0.286147088, -0.675284326)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 2, 2)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-79.6038513, 1.4935379, -89.9749069, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 2, 2)
+    Texturelirampa.CFrame = CFrame.new(-79.6031494, 2.99254608, -89.9754562, 0.675002098, 0.000496234919, -0.737815976, -0.00030329416, 1.00000191, 0.000401033059, 0.737821639, -4.62177959e-05, 0.675002396)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-8.15981674, 33.7653351, -31.9054012, 0.737651169, -0.622429848, -0.261633068, -0.000176045141, -0.387677401, 0.92179513, -0.675181985, -0.679917216, -0.286080241)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(42, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-7.8845787, 36.5195084, -33.8506622, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-7.81198502, 32.3643112, -31.5473747, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(1, 1, 13.59999942779541)
+    Part.CFrame = CFrame.new(-75.9553375, 8.49601746, -93.9906311, 0.6749385, 0.000257569511, -0.737874269, -4.43119498e-05, 1.00000155, 0.000314743782, 0.737879813, -0.000178846909, 0.674938738)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 1, 15)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-75.2073669, 8.49598694, -93.3222351, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(40, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-6.88538742, 35.5965805, -34.2399063, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 3)
+    Texturelirampa.CFrame = CFrame.new(-6.42075348, 30.0593567, -31.5065308, -0.622521758, -0.737609684, -0.261531919, -0.387640536, 0.000319460465, 0.921814263, -0.679858506, 0.675227523, -0.286126941)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 1, 4)
+    Texturelirampa.CFrame = CFrame.new(-77.3904495, 1.49179077, -91.9999695, 0.675065875, 0.000496232358, -0.737757444, -0.000303325185, 1.00000191, 0.00040121426, 0.737762928, -4.62205862e-05, 0.675066352)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-71.0891342, 8.99357605, -98.4492798, -0.738070667, 0.674723148, 0.000382450206, 9.89584878e-05, -0.000465507153, 1.00000155, 0.674723327, 0.738076389, 0.000277786196)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-68.5652084, 12.4867477, -99.3977203, -0.67444402, -5.00595088e-05, -0.73832643, 0.000303270412, -1.0000025, -0.000203253891, -0.738331497, -0.000361732207, 0.674444556)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-68.565979, 13.4867477, -99.3969727, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-69.3040619, 12.9866638, -98.7208099, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(24, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-0.72070694, 34.6692352, -39.3533401, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-69.3059158, 10.49366, -98.7246552, -0.67444402, -5.00595088e-05, -0.73832643, 0.000303270412, -1.0000025, -0.000203253891, -0.738331497, -0.000361732207, 0.674444556)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-67.4582062, 13.4868774, -100.409805, -0.67444402, -5.00595088e-05, -0.73832643, 0.000303270412, -1.0000025, -0.000203253891, -0.738331497, -0.000361732207, 0.674444556)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 8)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-66.7209473, 14.9859619, -101.085205, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(22, 1, 3)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(0.584529877, 32.8412781, -39.3842545, 0.737651169, -0.622429848, -0.261633068, -0.000176045141, -0.387677401, 0.92179513, -0.675181985, -0.679917216, -0.286080241)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local CornerWedge = Instance.new("CornerWedgePart")
+    CornerWedge.Name = "CornerWedge"
+    CornerWedge.Size = Vector3.new(17.420005798339844, 6.21999979019165, 17.59999656677246)
+    CornerWedge.CFrame = CFrame.new(-4.81674194, 40.4338379, -48.3258667, -0.6747666, 8.16532702e-05, 0.738031268, 8.38048509e-05, 1.00000095, -3.71068454e-05, -0.73803407, 3.72492868e-05, -0.67476666)
+    CornerWedge.Color = Color3.fromRGB(99, 95, 98)
+    CornerWedge.Material = Enum.Material.Slate
+    CornerWedge.Anchored = true
+    CornerWedge.CanCollide = true
+    CornerWedge.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 2)
+    Texturelirampa.CFrame = CFrame.new(-65.9842606, 13.4860382, -101.760178, 0.67493844, -0.000498741283, 0.737873673, -0.000260091329, -1.00000179, -0.000444112608, 0.737879872, 0.000107013751, -0.674938202)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(21, 1, 3)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(1.68818283, 30.0612793, -38.9273796, 0.737555087, -0.622467577, -0.261814147, 3.14840036e-05, -0.387676239, 0.921795607, -0.675287068, -0.679883242, -0.285912991)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(37.20000076293945, 10, 10)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-9.81887436, 19.5996399, -48.372509, 3.84376244e-06, 0.675028682, -0.737791598, -1.00000226, -3.61934838e-07, 2.44848451e-07, -7.06177616e-07, 0.737797141, 0.67502892)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-64.8772049, 12.4851685, -102.77243, -0.675082982, -0.737742066, -3.90766854e-06, -0.000242919108, 0.000223024224, 1.00000238, -0.737747431, 0.675083339, -0.000328999886)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-64.877243, 13.4851685, -102.772354, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(4, 1, 8)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-66.7241516, 2.98594666, -101.082855, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local CornerWedge = Instance.new("CornerWedgePart")
+    CornerWedge.Name = "CornerWedge"
+    CornerWedge.Size = Vector3.new(17, 7, 18)
+    CornerWedge.CFrame = CFrame.new(-47.1565247, 40.4782181, -95.2638245, -0.73778367, 0.000237325279, -0.675037742, -0.000204368014, 1.00000203, 0.000581036846, 0.675038397, 0.000567103387, -0.737788498)
+    CornerWedge.Color = Color3.fromRGB(99, 95, 98)
+    CornerWedge.Material = Enum.Material.Slate
+    CornerWedge.Anchored = true
+    CornerWedge.CanCollide = true
+    CornerWedge.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-64.1391983, 12.9842529, -103.447159, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 3, 1)
+    Texturelirampa.CFrame = CFrame.new(-64.1398315, 10.4842453, -103.446701, 0.675193369, -7.75948865e-05, 0.737640977, 0.00012821595, -1.00000262, -0.000228537494, 0.737646639, 0.000248146418, -0.675193489)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(36.00004196166992, 10, 10)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-46.8816528, 19.0007935, -90.3658981, 3.84376244e-06, 0.675028682, -0.737791598, -1.00000226, -3.61934838e-07, 2.44848451e-07, -7.06177616e-07, 0.737797141, 0.67502892)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 2, 43)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-46.1263466, 8.4805069, -86.7224121, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-63.7089386, 8.98440552, -105.197083, -0.738070667, 0.674723148, 0.000382450206, 9.89584878e-05, -0.000465507153, 1.00000155, 0.674723327, 0.738076389, 0.000277786196)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(4, 17, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-19.4067574, 35.3487854, -77.9581299, 0.286346436, -0.675265729, 0.67972213, -0.921595991, -7.67834717e-05, 0.388156444, -0.262057543, -0.73758024, -0.622342348)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 6)
+    Texturelirampa.CFrame = CFrame.new(-16.8584328, 32.5847855, -76.9007874, -0.679991841, 0.286167592, 0.675070405, -0.388078719, -0.921629071, -0.000228728386, 0.62209779, -0.262136251, 0.737758934)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(13, 31, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-1.92989731, 31.1990356, -61.4194489, 0.286346436, -0.675265729, 0.67972213, -0.921595991, -7.67834717e-05, 0.388156444, -0.262057543, -0.73758024, -0.622342348)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 6)
+    Texturelirampa.CFrame = CFrame.new(-20.2352791, 32.5839691, -80.5882034, 0.679723203, 0.286223054, -0.675317347, 0.388110459, -0.921616137, 3.6635618e-05, -0.622371256, -0.262123168, -0.737532794)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 3, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-13.8212051, 32.5846176, -73.5803528, 0.286257952, 0.675045609, -0.679977953, -0.921623111, -0.000113140377, -0.388092041, -0.262056798, 0.737781644, 0.62210381)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-14.06707, 31.2017059, -74.7119446, 0.679974318, -0.675040662, -0.286279589, 0.388069272, 5.47453274e-05, 0.921633005, -0.622122824, -0.737786174, 0.262000173)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 2, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-13.0534134, 31.2026443, -73.6062546, 0.286257952, 0.675045609, -0.679977953, -0.921623111, -0.000113140377, -0.388092041, -0.262056798, 0.737781644, 0.62210381)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 3, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-23.2710323, 32.5861359, -83.9099579, 0.286257952, 0.675045609, -0.679977953, -0.921623111, -0.000113140377, -0.388092041, -0.262056798, 0.737781644, 0.62210381)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 23.200000762939453, 10)
+    Texturelirampa.CFrame = CFrame.new(13.3726425, 26.4994354, -47.6338501, -0.679978073, -0.286258757, -0.675044954, -0.38809213, 0.921621621, 0.000109865105, 0.62210393, 0.262054563, -0.737779319)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-12.9612274, 29.8197098, -74.3681183, -0.680007756, 0.286296755, 0.674999654, -0.388078421, -0.921628833, -6.13197917e-05, 0.622080386, -0.261994779, 0.737823844)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-12.2864418, 29.8196716, -73.6300812, 0.286257952, 0.675045609, -0.679977953, -0.921623111, -0.000113140377, -0.388092041, -0.262056798, 0.737781644, 0.62210381)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 2, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-23.1787739, 31.2032013, -84.673233, 0.286257952, 0.675045609, -0.679977953, -0.921623111, -0.000113140377, -0.388092041, -0.262056798, 0.737781644, 0.62210381)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(13, 31, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-34.3274689, 31.20681, -96.8357086, 0.286257952, 0.675045609, -0.679977953, -0.921623111, -0.000113140377, -0.388092041, -0.262056798, 0.737781644, 0.62210381)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 1, 1)
+    Texturelirampa.CFrame = CFrame.new(-22.1666088, 31.2031403, -83.5662079, 0.679925203, 0.286263794, -0.67509675, 0.388110459, -0.921616256, 9.69997127e-05, -0.62215066, -0.262078494, -0.737734854)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 24.000003814697266, 9)
+    Texturelirampa.CFrame = CFrame.new(13.7185745, 26.8534775, -47.9934731, 0.622427583, -0.261829317, -0.737583399, 0.387676805, 0.921796381, -6.81574384e-05, 0.679921687, -0.285901994, 0.675256073)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 20.200014114379883, 5.200003147125244)
+    Texturelirampa.CFrame = CFrame.new(-39.7921562, 30.3450775, -102.471848, 0.416621387, -0.531263411, -0.737689495, 0.787039459, 0.61690408, 0.000218553556, 0.454969168, -0.580683231, 0.675140202)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(2, 1, 1)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-23.0873222, 29.8202667, -85.4344025, 0.286257952, 0.675045609, -0.679977953, -0.921623111, -0.000113140377, -0.388092041, -0.262056798, 0.737781644, 0.62210381)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 1, 24)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-54.9192886, 8.48229218, -111.885361, -0.000267869764, 0.675128043, -0.737700701, -1.00000238, -9.27869696e-05, 0.000284359296, 0.00012267298, 0.737706363, 0.675128222)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(1, 1, 22)
+    Part.CFrame = CFrame.new(-55.5920486, 8.48133087, -112.62117, 0.6749385, 0.000257569511, -0.737874269, -4.43119498e-05, 1.00000155, 0.000314743782, 0.737879813, -0.000178846909, 0.674938738)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 2, 1)
+    Texturelirampa.CFrame = CFrame.new(-22.4125443, 29.8202286, -84.6963806, 0.679957688, 0.286312342, -0.675043702, 0.38811028, -0.921616256, 4.92461986e-05, -0.622115672, -0.262025416, -0.737783372)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-11.4272881, 27.0547714, -74.4157715, -0.680007756, 0.286296755, 0.674999654, -0.388078421, -0.921628833, -6.13197917e-05, 0.622080386, -0.261994779, 0.737823844)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 4, 1)
+    Texturelirampa.CFrame = CFrame.new(-22.2281628, 27.056366, -86.2200775, 0.679949522, 0.286352694, -0.675034821, 0.38811028, -0.921616256, -1.05794279e-05, -0.622124612, -0.261981249, -0.737791538)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 23.400001525878906, 10)
+    Texturelirampa.CFrame = CFrame.new(-46.7341995, 26.5997314, -113.273483, 0.679977655, -0.286360085, 0.675002575, 0.388094485, 0.921620607, 2.59767821e-05, -0.622103035, 0.261947274, 0.737818301)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(1, 23.400001525878906, 9)
+    Texturelirampa.CFrame = CFrame.new(-46.3087196, 26.6427689, -113.57579, 0.621732175, 0.262298942, -0.738003016, -0.38880074, 0.921323001, -8.89010116e-05, 0.679917574, 0.286992639, 0.674797475)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(1, 79, 10.199999809265137)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-14.8066559, 20.5132904, -82.1688385, 0.679977238, -0.675044656, -0.286261469, 0.388094306, 0.000111269001, 0.92162329, -0.622102678, -0.737782538, 0.262056202)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Texturelirampa = Instance.new("WedgePart")
+    Texturelirampa.Name = "Textureli rampa"
+    Texturelirampa.Size = Vector3.new(2, 3.800004720687866, 8.599992752075195)
+    Texturelirampa.CFrame = CFrame.new(-31.6667385, 20.2701569, -99.9586182, -0.675128043, 0.737701595, -0.000603738823, 0.000123330581, -0.000711683184, -1.0000025, -0.737706363, -0.675129056, 0.000388647924)
+    Texturelirampa.Color = Color3.fromRGB(149, 121, 119)
+    Texturelirampa.Material = Enum.Material.Slate
+    Texturelirampa.Anchored = true
+    Texturelirampa.CanCollide = true
+    Texturelirampa.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(19.6761475, 7.9535675, -46.6638565, -0.737225533, -0.675645947, -0.00103853608, 0.000573119265, 0.000918226317, -1.00000107, 0.675646663, -0.737231314, -0.000290420518)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(19.723053, 7.89468384, -48.0278511, 0.675623298, -0.737246573, -0.000483793119, 0.000120443212, 0.000772516825, -1.00000191, 0.737252712, 0.67562294, 0.000610030082)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(1, 1, 97)
+    Part.CFrame = CFrame.new(-13.0436707, 8.42647552, -83.7840729, -0.737247288, 0.00093489635, -0.675622523, 0.000405491126, 1.00000167, 0.000947495166, 0.675623417, 0.000425123901, -0.737252772)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local BeveledGreyTilesTexture = Instance.new("Part")
+    BeveledGreyTilesTexture.Name = "BeveledGreyTilesTexture"
+    BeveledGreyTilesTexture.Size = Vector3.new(15, 1, 98)
+    BeveledGreyTilesTexture.CFrame = CFrame.new(-13.0162506, 8.46142578, -83.1316528, -0.000373588322, 0.737692237, 0.675137222, -1.00000179, -0.00019567553, -0.000346505782, -0.000124505095, -0.675137579, 0.73769778)
+    BeveledGreyTilesTexture.Color = Color3.fromRGB(149, 121, 119)
+    BeveledGreyTilesTexture.Material = Enum.Material.Slate
+    BeveledGreyTilesTexture.Anchored = true
+    BeveledGreyTilesTexture.CanCollide = true
+    BeveledGreyTilesTexture.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-47.4765015, 7.97724915, -120.046722, -0.738070667, 0.674723148, 0.000382450206, 9.89584878e-05, -0.000465507153, 1.00000155, 0.674723327, 0.738076389, 0.000277786196)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+    local Part = Instance.new("Part")
+    Part.Name = "Part"
+    Part.Size = Vector3.new(2, 1, 2)
+    Part.CFrame = CFrame.new(-45.8034935, 7.97727203, -119.550674, 0.674677491, 0.73811245, 0.000580266409, -0.000489339349, -0.000345167064, 1.00000131, 0.738118172, -0.674677789, 0.000129267413)
+    Part.Color = Color3.fromRGB(128, 187, 219)
+    Part.Material = Enum.Material.Slate
+    Part.Anchored = true
+    Part.CanCollide = true
+    Part.Parent = Mosque
+
+Mosque.Parent = parentTarget
